@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there I am Junior Magnus 👋
 
-<!--
-**jrmagnus/jrmagnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 💻 I'm work since 2008 with ISP / Networks
+- 🌱 I’m currently learning C, Java and JS
+- 👯 I’m looking to collaborate on Front End and Swift 🍏
+- 💬 Ask me about Hardware / Network / IPv4 / IPv6
+- 📫 How to reach me: junior_magnus@icloud.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Beyond IT, I'm also a Car Lover, Gamer, and always an enthusiast with almost everything
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://github.com/jrmagnus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrmagnus&show_icons=true&title_color=fcee0c&&text_color=03d8f3&icon_color=ff0800&hide_border=1&bg_color=000000&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmagnus&layout=compact&langs_count=7&title_color=fcee0c&&text_color=03d8f3&icon_color=ff0800&hide_border=1&bg_color=000000"/>
+</div>
+
