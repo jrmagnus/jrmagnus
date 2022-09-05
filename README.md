@@ -1,4 +1,4 @@
-### Hi there I am Junior Magnus 👋
+### Hi there, I am Junior Magnus 👋
 
 
 - 💻 I'm work since 2008 with ISP / Networks
