@@ -4,7 +4,7 @@
 - 💻 I'm work since 2008 with ISP / Networks
 - 🌱 I’m currently learning C, Java and JS
 - 👯 I’m looking to collaborate on Front End and Swift 🍏
-- 💬 Ask me about Hardware / Network / IPv4 / IPv6
+- 💬 Ask me about Hardware / Network / Games / Nerdstuff
 - 📫 How to reach me: junior@jrmagnus.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Beyond IT, I'm also a Car Lover, Gamer, and always an enthusiast with almost everything
