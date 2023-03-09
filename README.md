@@ -16,3 +16,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmagnus&layout=compact&langs_count=7&title_color=fcee0c&&text_color=03d8f3&icon_color=ff0800&hide_border=1&bg_color=000000"/>
 </div>
 
+Projects:
+  https://general-solutions.vercel.app/
+  https://alura-plus-three-jade.vercel.app/
