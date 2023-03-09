@@ -17,5 +17,5 @@
 </div>
 
 Projects:
-  https://general-solutions.vercel.app/
-  https://alura-plus-three-jade.vercel.app/
+  - https://general-solutions.vercel.app/
+  - https://alura-plus-three-jade.vercel.app/
