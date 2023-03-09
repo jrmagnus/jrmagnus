@@ -17,5 +17,8 @@
 </div>
 
 Projects:
+  - Web
   - https://general-solutions.vercel.app/
   - https://alura-plus-three-jade.vercel.app/
+  - Art
+  - <a href="https://youtube.com/shorts/wY2GNtTf534?feature=share">Donut Blender</a>
