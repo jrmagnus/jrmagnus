@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C, JS, HTML, CSS
 - 👯 I’m looking to collaborate on Front End and Swift 🍏
 - 💬 Ask me about Hardware / Network / Games / Nerdstuff
-- 📫 How to reach me: junior@jrmagnus.com
+- 📫 How to reach me: https://www.linkedin.com/in/jrmagnus/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Beyond IT, I'm also a Car Lover, Gamer, and always an enthusiast with almost everything
 
