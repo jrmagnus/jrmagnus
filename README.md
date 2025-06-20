@@ -2,7 +2,7 @@
 
 
 - 💻 I'm work since 2008 with ISP / Networks
-- 🌱 I’m currently learning C, JS, HTML, CSS
+- 🌱 I’m currently learning C, JS, HTML, CSS, Python
 - 👯 I’m looking to collaborate on Front End and Swift 🍏
 - 💬 Ask me about Hardware / Network / Games / Nerdstuff
 - 📫 How to reach me: https://www.linkedin.com/in/jrmagnus/
